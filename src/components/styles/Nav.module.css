@@ -1,0 +1,22 @@
+.Nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.Nav a{
+    font-size: 17px;
+    color: #fff;
+    font-style: none;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    text-shadow: 0 0 5px rgb(116, 173, 116), 0 0 10px rgb(116, 173, 130);
+    transition: all .3s ease-in-out;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Nav a:hover{
+    transform: scale(1.1);
+}

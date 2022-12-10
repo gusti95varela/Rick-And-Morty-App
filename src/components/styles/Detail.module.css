@@ -1,0 +1,46 @@
+.Detail {
+    margin: 0px auto;
+    width: 17rem;
+}
+
+.Detail h1 {
+    text-shadow: 0 0 5px rgb(116, 173, 116), 0 0 10px rgb(116, 173, 130);
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 22px;
+}
+
+.Detail h5 {
+    text-shadow: 0 0 5px rgb(116, 173, 116), 0 0 10px rgb(116, 173, 130);
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-size: 14px;
+}
+
+.Detail img{
+    width: 230px;
+    border-radius: 5px;
+}
+
+.Detail button{
+    background-color: rgb(255, 255, 255);
+    color: #252525;
+    cursor: pointer;
+    padding: 8px 18px;
+    display: inline-block;
+    outline: none;
+    font-size: .9rem;
+    transition: all .3s ease-in-out;
+    font-weight: 600;
+    border: 2px solid rgb(255, 255, 255);
+    letter-spacing: 1px;
+    border-radius: 5px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.Detail button:hover{
+    box-shadow: 2px 2px 3px rgb(30, 223, 78);
+    transition: 0.2s ease-in-out 0s;
+}

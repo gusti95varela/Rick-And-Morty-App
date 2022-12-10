@@ -1,0 +1,18 @@
+.about{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about h1 {
+    font-size: 4.5rem;
+    color: #fff;
+    font-weight: 800;
+    line-height: 1.1em;
+    text-align: left;
+    margin: 1.7em .7em;
+    text-shadow: 0 0 5px rgb(116, 173, 116), 0 0 10px rgb(116, 173, 130);
+}
+
+.about img {
+    width: 560px;
+}
